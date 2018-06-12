@@ -22,7 +22,7 @@ public class MainActivity extends ActivityWrapper implements View.OnClickListene
     @BindView(R.id.b4)
     TextView b4;
 
-    int i= 11000;
+    int i= 44;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
