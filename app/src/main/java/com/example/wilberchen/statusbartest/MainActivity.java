@@ -23,7 +23,6 @@ public class MainActivity extends ActivityWrapper implements View.OnClickListene
     TextView b4;
 
     int i= 10;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
