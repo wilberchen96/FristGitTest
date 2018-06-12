@@ -21,9 +21,6 @@ import butterknife.BindView;
 public class MainActivity extends ActivityWrapper implements View.OnClickListener {
     @BindView(R.id.b4)
     TextView b4;
-
-    int i=0;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
